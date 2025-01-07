@@ -1,0 +1,9 @@
+public class variable{
+    static String a="noooo";
+    int b=2;
+    public static void main(String[] args)
+    {
+        int c=20;
+        System.out.println("value is "+c+" ,college name"+a);
+    }
+}
