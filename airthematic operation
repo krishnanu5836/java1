@@ -1,0 +1,12 @@
+public class Main {
+    public static void main(String[] args) {
+        int first_value=2,second_value=2, add;
+       float f_value1=2.5f,f_value2=8.9f,ok;
+       ok=f_value2-f_value1;
+
+
+        add=first_value+second_value;
+        System.out.println(add);
+        System.out.println(ok);
+    }
+}
